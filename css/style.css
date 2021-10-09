@@ -78,3 +78,36 @@ right:8px;
   background-image: linear-gradient(to bottom, #ff66d9, 	 #ff99e6);
   text-decoration: none;
 }
+.div3 {
+  position: relative;
+  margin: 0;
+  font-size:80px;
+
+  font-weight: 400;
+    background-color:#ffe6f2;
+}
+.count{
+  font-size: 50px;
+  font-weight: bolder;
+  margin-left: 40px;
+}
+#counting{
+  font-size: 40px;
+  font-weight: bold;
+  margin-left: 40px;
+}
+.btn-lg{
+  background: black;
+  color: red;
+  margin-left: 40px;
+}
+
+#save-btn{
+  background: black;
+  color: green;
+  margin-left: 20px;
+}
+#save-el {
+  margin-left: 40px;
+  font-size: 40px;
+}
